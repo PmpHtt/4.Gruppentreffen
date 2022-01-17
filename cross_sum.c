@@ -12,5 +12,4 @@ int qs(int n){
     return quers;
 
 }
-//hui hui
-//weitere Huis
+
